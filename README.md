@@ -5,7 +5,7 @@ This extractor enables the user to extract all the fields contained in a JSON fi
 
 You will also find in the results folder created by the script, a matlab output structure file (.mat) containing as fields the subject name or ID with each individual field containing subfields depending on the data varaiables (Magnetic Field, Echo Time, etc.) found inside the subject's json file. 
 
-This enables the user to directly select and extract the data needed and easy to use in a common data format that can be used by other programming languages and/or softwares such as Python or R.
+This enables the user to directly select and extract the data needed and easy to use in a common data format that can be used by other programming languages and/or softwares such as Python or R for further analysis.
 
 
 ## Use :
@@ -15,9 +15,11 @@ Each .json file needs to contain a set of Keys or Variables with their correspon
 
 https://docs.fileformat.com/web/json/#json-format-example
 
-You will then need to download the script in this folder by using the command : 
+You can then download the script in this folder by using the command : 
 
-```git clone https://github.com/YOUR-NAME-OR-ORGANIZATION/YOUR-REPO-NAME```
+```git clone https://git@github.com:Kratos997/json_MRI_data_extractuion.git```
+
+You can use as a test the provided data from a real study or your own data.
 
 ## Results : 
 
