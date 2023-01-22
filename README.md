@@ -18,7 +18,9 @@ https://docs.fileformat.com/web/json/#json-format-example
 
 You can then download the script in this folder by using the command : 
 
-```git clone https://git@github.com:Kratos997/json_MRI_data_extractuion.git```
+```bash 
+git clone https://git@github.com:Kratos997/json_MRI_data_extractuion.git
+```
 
 ## Results : 
 
