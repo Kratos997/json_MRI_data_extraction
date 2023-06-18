@@ -1,4 +1,4 @@
-# JSON MRI data file extractor
+# JSON MRI header data file extractor
 
 ## Purpose :
 
